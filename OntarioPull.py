@@ -19,7 +19,7 @@ dfConfirmed = pd.DataFrame(dataConfirmed)
 
 ####print to csv####
 timestamp = date.today()
-dfStatus.to_csv('C:/Users/graha/Google Drive/1. Math MSc/Covid Analysis/Provincial Data/OntarioStatus_{}.csv'.format(timestamp))
-dfConfirmed.to_csv('C:/Users/graha/Google Drive/1. Math MSc/Covid Analysis/Provincial Data/OntarioConfirmed_{}.csv'.format(timestamp))
+dfStatus.to_csv('C:/Users..._{}.csv'.format(timestamp))
+dfConfirmed.to_csv('C:/Users/..._{}.csv'.format(timestamp))
 
 
